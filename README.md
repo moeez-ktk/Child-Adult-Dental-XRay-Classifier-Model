@@ -7,7 +7,7 @@ This project aims to develop a model capable of classifying dental X-ray images 
 1. **Download the Repository**: Clone this repository to your local machine using the following command:
 
     ```bash
-    git clone https://github.com/moeez-ktk/Child-Adult-Dental-XRay-Classifier-Model.git
+    git clone git@github.com:moeez-ktk/Child-Adult-Dental-XRay-Classifier-Model.git
     ```
 
 2. **Install Dependencies**: Navigate to the project directory and install the required dependencies:
