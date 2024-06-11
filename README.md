@@ -39,21 +39,3 @@ This project aims to develop a model capable of classifying dental X-ray images 
 ## Model Training
 
 This model is trained using a convolutional neural network (CNN) architecture. CNNs are well-suited for image classification tasks due to their ability to automatically learn hierarchical features from the input images. The model architecture consists of multiple convolutional layers followed by max-pooling layers for feature extraction, followed by fully connected layers for classification. The model is trained using the Adam optimizer with binary cross-entropy loss function, as it is a binary classification problem. The dataset is split into training and validation sets to monitor the model's performance during training and prevent overfitting.
-
-# Git LFS
-
-This repository uses Git LFS to handle large files. If you are cloning this repository, make sure you have Git LFS installed:
-
-Install Git LFS:
-
-```bash
-git lfs install
-```
-
-Clone the repository:
-
-```bash
-git clone git@github.com:moeez-ktk/Child-Adult-Dental-XRay-Classifier-Model.git
-```
-
-Navigate to the project directory and install the required dependencies as described above.
